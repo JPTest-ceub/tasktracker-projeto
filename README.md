@@ -80,3 +80,11 @@ Durante o cadastro, informe título, descrição, prioridade e, se desejar, data
 ## Planejamento
 
 O documento `docs/planejamento_logico.pdf` registra o planejamento lógico entregue na etapa inicial.
+
+## Autor e repositório
+
+**Autor:** João Pedro Neves Queiroz
+
+**Repositório GitHub:** https://github.com/JPTest-ceub/tasktracker-projeto
+
+**Tecnologias:** Python 3.11, Docker, Docker Compose e Git.
